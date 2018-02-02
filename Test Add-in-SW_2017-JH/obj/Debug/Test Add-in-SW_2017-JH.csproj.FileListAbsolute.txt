@@ -1,0 +1,7 @@
+C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\bin\Debug\Test Add-in-SW_2017-JH.dll
+C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\bin\Debug\Test Add-in-SW_2017-JH.pdb
+C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\bin\Debug\solidworkstools.dll
+C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.dll
+C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.pdb
