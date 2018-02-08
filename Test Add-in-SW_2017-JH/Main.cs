@@ -2,6 +2,8 @@
 using SolidWorks.Interop.swpublished;
 using System;
 using System.IO;
+using System.Runtime.InteropServices;
+
 //system information class
 using System.Windows.Forms;
 //using CsvHelper.Configuration;
@@ -30,7 +32,7 @@ namespace Test_Add_in_SW_2017_JH
         private int mSwCookie;
 
         //User interface initializer 
-        private TaskpaneViewHandler mTaskpaneView;
+        private TaskpaneView mTaskpaneView;
 
         //variable for the User interface that will run inside solidworks
         private TestAddInHostUI mtestAddInHostUI;
@@ -40,6 +42,8 @@ namespace Test_Add_in_SW_2017_JH
 
         // allows for solidworks to recognize this application from the list of plugins potentially installed in the software
         public const string SWTASKPANE_PROGID = "TEST_APP_JH";
+
+        public string SldToolTip = "Tast App by JH";
 
         #endregion
 
@@ -88,14 +92,14 @@ namespace Test_Add_in_SW_2017_JH
             //throw new NotImplementedException();
 
             // Find location of the programs Icon
-            var iconPath = Path.Combine(Path.GetDirectoryName(typeof(Main).Assembly.CodeBase).Replace(@"file:\",""), "rsz_sw_cube_red.PNG");
+            var iconPath = Path.Combine(Path.GetDirectoryName(typeof(Main).Assembly.CodeBase).Replace(@"file:\", string.Empty), "rsz_sw_cube_red.PNG");
 
-            //create a taskpane in solidworks
+            //create a taskpane in solidworks using an instance of the UI class (TestAddInHostUI)
 
-            //mTaskpaneView = mSolidWorksAppInstance.CreateTaskpaneView2(iconPath, "");
+            mTaskpaneView = mSolidWorksAppInstance.CreateTaskpaneView2(iconPath,SldToolTip);
 
             //Load UI into SW taskpane
-            //mTaskpaneHost = (TestAddInHostUI)mTaskpaneView.AddControl(Main.SWTASKPANE_PROGID, string.Empty);
+            mtestAddInHostUI = (TestAddInHostUI)mTaskpaneView.AddControl(Main.SWTASKPANE_PROGID, string.Empty);
         }
 
         #endregion
@@ -106,11 +110,18 @@ namespace Test_Add_in_SW_2017_JH
         private void UnloadUI()
         {
             //throw new NotImplementedException();
+            mTaskpaneView = null;
+
+            mTaskpaneView.DeleteView();
+
+            //removes COM reference and remove instance from system memory
+            Marshal.ReleaseComObject(mTaskpaneView);
+
+            mTaskpaneView = null;
         }
 
-        // Testing Github upload Here
 
-        // Testing Github upload Here 2
+
         #endregion
     }
 }

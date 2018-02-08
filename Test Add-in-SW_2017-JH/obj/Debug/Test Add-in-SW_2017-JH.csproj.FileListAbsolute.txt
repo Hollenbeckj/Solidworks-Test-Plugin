@@ -5,3 +5,15 @@ C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_
 C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.csproj.CoreCompileInputs.cache
 C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.dll
 C:\Users\Frank\Desktop\JOSH Workspace\Solidworks Plugins\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.pdb
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\bin\Debug\rsz_sw_cube_red.png
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\bin\Debug\Test Add-in-SW_2017-JH.dll
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\bin\Debug\Test Add-in-SW_2017-JH.pdb
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\bin\Debug\CsvHelper.dll
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\bin\Debug\solidworkstools.dll
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\bin\Debug\CsvHelper.xml
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test_Add_in_SW_2017_JH.TestAddInHostUI.resources
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.csproj.GenerateResource.Cache
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.dll
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Test Add-in-SW_2017-JH\obj\Debug\Test Add-in-SW_2017-JH.pdb
