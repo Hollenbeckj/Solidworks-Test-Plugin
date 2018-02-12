@@ -117,11 +117,35 @@ namespace Test_Add_in_SW_2017_JH
             //removes COM reference and remove instance from system memory
             Marshal.ReleaseComObject(mTaskpaneView);
 
+            // set Task Pane view equal to null =)
             mTaskpaneView = null;
         }
+        #endregion
+
+        #region Windows COM Registration
 
 
+        // - Begin Section - 
 
+        // comunicates with windows REGEDIT and solidworks to use and identify the classes within this plugin to be used in the solidworks registry
+
+        [ComRegisterFunction()]
+
+        private static void ComRegister(Type t)
+        {
+            // path to the the plugin
+            var keyPath = string.Format(@"software\Solidworks\AddIns\{0:b}", t.GUID);
+
+            using (var rk = Microsoft.Win32.Registry.LocalMachine.CreateSubKey(keyPath))
+            {
+                // load when solidworks opens - the value is a boolean
+                rk.SetValue(null, 1);
+
+                rk.SetValue("Title", "My SwAddin");
+                rk.SetValue("Description", "Solidworks Test Plugin");
+            }
+        }
+        // - End Section - 
         #endregion
     }
 }
