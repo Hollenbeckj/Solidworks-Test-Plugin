@@ -1,0 +1,15 @@
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\bin\x64\Debug\SolidWorksAddinInstaller.exe.config
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\bin\x64\Debug\SolidWorksAddinInstaller.exe
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\bin\x64\Debug\SolidWorksAddinInstaller.pdb
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\AngelSix.SolidWorksApi.AddinInstaller.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\App.g.cs
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\SolidWorksAddinInstaller_MarkupCompile.cache
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\SolidWorksAddinInstaller_MarkupCompile.lref
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\MainWindow.baml
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\SolidWorksAddinInstaller.g.resources
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\AngelSix.SolidWorksApi.AddinInstaller.Properties.Resources.resources
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\AngelSix.SolidWorksApi.AddinInstaller.csproj.GenerateResource.Cache
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\AngelSix.SolidWorksApi.AddinInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\SolidWorksAddinInstaller.exe
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\SolidWorksAddinInstaller.pdb

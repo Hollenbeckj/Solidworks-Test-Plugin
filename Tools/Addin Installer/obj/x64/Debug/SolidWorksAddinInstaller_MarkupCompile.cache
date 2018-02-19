@@ -1,0 +1,20 @@
+﻿SolidWorksAddinInstaller
+
+
+winexe
+C#
+.cs
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\obj\x64\Debug\
+AngelSix.SolidWorksApi.AddinInstaller
+none
+false
+DEBUG;TRACE
+C:\Users\Frank\Desktop\JOSH Workspace\DEVELOPEMENT\SOLIDWORKS PLUGINS\SW 2017\Test Add-in-SW_2017\Tools\Addin Installer\App.xaml
+11151548125
+
+5-2017746502
+13738642453
+MainWindow.xaml;
+
+False
+

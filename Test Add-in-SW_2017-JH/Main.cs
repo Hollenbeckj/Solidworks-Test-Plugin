@@ -23,11 +23,12 @@ namespace Test_Add_in_SW_2017_JH
         // - [THIS IS A TEST PLUGIN FOR SOLIDWORKS 2017 SP-5]
         //Credit to Josh Close for the CsvHelper library
         //https://github.com/JoshClose/CsvHelper
+        //https://github.com/angelsix/solidworks-api - anglesix 
 
 
         // MAIN ADD IN SECTION - USING ISwAddin will establish communication with solidworks to enable and disable the plugin when solidworks is running
         #region Private Setup Members
-        
+
         // cookie initializer
         private int mSwCookie;
 
@@ -146,6 +147,20 @@ namespace Test_Add_in_SW_2017_JH
             }
         }
         // - End Section - 
+        #endregion
+
+        #region COM Un-registration
+
+        [ComRegisterFunction()]
+
+        private static void ComUnRegister(Type t)
+        {
+            // path to the the plugin
+            var keyPath = string.Format(@"software\Solidworks\AddIns\{0:b}", t.GUID);
+            // remove registration from windows COM
+            Microsoft.Win32.Registry.LocalMachine.DeleteSubKeyTree(keyPath);
+
+        }
         #endregion
     }
 }
