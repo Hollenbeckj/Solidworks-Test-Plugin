@@ -23,7 +23,7 @@ namespace Test_Add_in_SW_2017_JH
         // - [THIS IS A TEST PLUGIN FOR SOLIDWORKS 2017 SP-5]
         //Credit to Josh Close for the CsvHelper library
         //https://github.com/JoshClose/CsvHelper
-        //https://github.com/angelsix/solidworks-api - anglesix 
+        //https://github.com/angelsix/solidworks-api - angle-six 
 
 
         // MAIN ADD IN SECTION - USING ISwAddin will establish communication with solidworks to enable and disable the plugin when solidworks is running
